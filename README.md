@@ -178,7 +178,7 @@ This project focuses on analyzing a **movie metadata dataset** using Microsoft E
 - [Movie_Metadata.csv -uncleaned.xlsx](./Movie_Metadata.csv%20-uncleaned.xlsx) → Original dataset file  
 - [Movie_Metadata_Cleaned.xlsx](./Movie_Metadata_Cleaned.xlsx) → Cleaned dataset  
 - [Movie_Metadata_Dashboard.pbix](./Movie_Metadata_Dashboard.pbix) → Power BI dashboard file  
-- [Movie_Metadata_Dashboard.pdf](./Movie_Metadata_Dashboard.pdf) → Dashboard PDF version  
+- [Movie_Metadata_Dashboard_pdf.pdf](./Movie_Metadata_Dashboard_pdf.pdf) → Dashboard PDF version  
 - [README.md](./README.md) → Project documentation  
 
 ---
